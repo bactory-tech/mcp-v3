@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.svg" alt="Bactory: create markets, not just tokens" width="100%">
-</p>
+
 
 <p align="center">
   <a href="https://bactory.tech"><img src="https://img.shields.io/badge/website-bactory.tech-0052ff?style=flat-square" alt="Website"></a>
