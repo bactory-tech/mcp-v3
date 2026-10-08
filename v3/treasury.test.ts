@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { decide, type CycleInputs } from '../src/treasury.js';
+import { decide, type CycleInputs } from '../src/treasury.js';/
 
 const days = (closes: number[]) =>
   closes.map((close, i) => ({ time: new Date(Date.UTC(2026, 0, 1 + i)).toISOString(), close }));
